@@ -36,7 +36,4 @@
   🔭 I’m currently working on <strong>React.js</strong>
 </p>
 
-<p align="center">
-  🌱 I’m currently learning <strong>Express, MongoDB</strong>
-</p>
 
