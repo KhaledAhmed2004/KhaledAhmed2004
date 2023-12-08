@@ -35,5 +35,6 @@
 <p align="center">
   🔭 I’m currently working on <strong>React.js</strong>
 </p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
