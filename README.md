@@ -31,4 +31,4 @@
   🌱 Currently learning <strong>Express, MongoDB</strong>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KhaledAhmed2004&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KhaledAhmed2004&theme=blux&border_radius=5)](https://git.io/streak-stats)
