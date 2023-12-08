@@ -32,3 +32,8 @@
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KhaledAhmed2004&theme=blux&border_radius=5)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
