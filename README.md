@@ -40,7 +40,7 @@
 
 <!-- GitHub Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KhaledAhmed2004&show_icons=true&locale=en&layout=compact" alt="KhaledAhmed2004" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledAhmed2004" wid/>
 </p>
 
 <!-- GitHub Profile Summary Cards -->
@@ -57,6 +57,6 @@
 
 ## 🚀 **Current Github Status**:
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledAhmed2004" wid/>
+ 
 
 <br/>
