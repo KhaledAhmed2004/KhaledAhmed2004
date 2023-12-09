@@ -48,6 +48,6 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/khaled-ahmed-nayeem-96596826a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "mailto:tanmoyparvez23@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
+<a href = "mailto:khaledahmednayeem2004@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
 
 </p>
