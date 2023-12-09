@@ -40,7 +40,7 @@
 
 <!-- GitHub Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledAhmed2004" wid/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledAhmed2004" width="full"/>
 </p>
 
 <!-- GitHub Profile Summary Cards -->
@@ -48,45 +48,42 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KhaledAhmed2004&theme=default" alt="GitHub Profile Summary Cards" />
 </p>
 
+<h2 align="left">Last three projects:</h2>
 
- <h2 align="left">Last three project:</h2>
+<h3 align="left">Parcel Management</h3>
+This is one of my finest creations—a restaurant site boasting incredible functionality and UI/UX. Utilized CRUD, JWT, and various features for an exceptional user experience.
+<h4 align="left">Features:</h4>
 
- <h3 align="left">Parcel Management</h3>
-This is one of my finest creations—a restaurant site boasting incredible functionality and UI/UX. Utilized CRUD, JWT, and various features for an exceptional user experience
- <h4 align="left">feature</h4>
-
-- In this site We have 3 types of dashboard
-- All dashboard have unique routes
-- Dynamically user , all delivery man, total book are all dynamic
-- user can book a parcel
-- user can delete a parcel
-- user can update a parcel
-- admin can make delivery man and admin
+- In this site, we have 3 types of dashboards
+- All dashboards have unique routes
+- Dynamically user, all delivery man, total book are all dynamic
+- Users can book a parcel
+- Users can delete a parcel
+- Users can update a parcel
+- Admin can make a delivery man and admin
 - [Live_Link](https://parcelmanagment.web.app/)
 
- <h3 align="left">Khala-Pina-Restauran</h3>
-This is my latest project—a full-stack parcel management website. I developed CRUD operations and integrated various functionalities for seamless user experience.
- <h4 align="left">feature</h4>
+<h3 align="left">Khala-Pina-Restaurant</h3>
+This is my latest project—a full-stack parcel management website. I developed CRUD operations and integrated various functionalities for a seamless user experience.
+<h4 align="left">Features:</h4>
 
-- this site is fully responsive
-- this site have dark modo toggle
-- have awesome hove effect on card
-- have email and gmail auth system
-- have curd operation
-- and also have pagination
-- search option
+- This site is fully responsive
+- This site has dark mode toggle
+- Have an awesome hover effect on the card
+- Has email and Gmail auth system
+- Has CRUD operations
+- Also has pagination, search option
 - [Live_Link](https://resturent-c129f.web.app)
 
- <h3 align="left">Khala-Pina-Restauran</h3>
+<h3 align="left">Tech Brand Website</h3>
 I've developed a tech brand website, implementing essential CRUD operations for a seamless user experience in this project.
- <h4 align="left">feature</h4>
+<h4 align="left">Features:</h4>
 
-
-- It's have a scrolling animation
-- It's have hover animation also
-- Email/Gmail 2 auth system are implement in this
-- Full web site data is from MongoDB
-- It show profile after login
+- It has scrolling animation
+- It has hover animation
+- Email/Gmail 2 auth systems are implemented in this
+- Full website data is from MongoDB
+- It shows a profile after login
 - [Live_Link](https://technology-and-electroni-ebb95.web.app)
 
 ## 📱 **Reach Me**:
@@ -95,4 +92,3 @@ I've developed a tech brand website, implementing essential CRUD operations for 
   <a href="https://www.linkedin.com/in/khaled-ahmed-nayeem-96596826a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   <a href="mailto:khaledahmednayeem2004@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
 </p>
-
