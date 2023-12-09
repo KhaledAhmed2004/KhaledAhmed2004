@@ -57,6 +57,6 @@
 
 ## 🚀 **Current Github Status**:
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmoy-Parvez" wid/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledAhmed2004" wid/>
 
 <br/>
