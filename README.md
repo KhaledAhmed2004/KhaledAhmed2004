@@ -1,3 +1,6 @@
+<!-- Banner -->
+<img width="full" height="full" src="https://i.ibb.co/ZzMcF1C/Neon-Light-Pro-Game-Player-Guide-Presentation.jpg" alt="My banner">
+
 <!-- Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Khaled+Ahmed+Nayeem" alt="Typing SVG"/>
@@ -16,7 +19,7 @@
 - 📫 How to reach me: **khaledahmednayeem2004@gmail.com**
 
 <!-- Tools and Technologies -->
-<h3 align="left">💡 Tools And Technologies:</h3>
+<h3 align="center">💡 Tools And Technologies:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,express,mongodb,firebase" alt="Skills" />
@@ -34,8 +37,8 @@
 </p>
 
 <!-- GitHub Top Languages -->
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KhaledAhmed2004&show_icons=true&locale=en&layout=compact" alt="KhaledAhmed2004" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KhaledAhmed2004&show_icons=true&locale=en&layout=compact" alt="KhaledAhmed2004" />
 </p>
 
 <!-- GitHub Profile Summary Cards -->
@@ -46,9 +49,6 @@
 ## 📱 **Reach Me**:
 
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/khaled-ahmed-nayeem-96596826a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "mailto:khaledahmednayeem2004@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
-
+  <a href="https://www.linkedin.com/in/khaled-ahmed-nayeem-96596826a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href="mailto:khaledahmednayeem2004@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
 </p>
-
