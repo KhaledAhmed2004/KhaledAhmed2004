@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img width="full" height="300px" src="https://i.ibb.co/ZzMcF1C/Neon-Light-Pro-Game-Player-Guide-Presentation.jpg" alt="My banner">
+  <img width="full" height="300px" src="https://i.ibb.co/vJ78RjG/Neon-Light-Pro-Game-Player-Guide-Presentation-1.jpg" alt="My banner">
 </p>
 
 <!-- Typing SVG -->
