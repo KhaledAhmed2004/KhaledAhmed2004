@@ -48,6 +48,10 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KhaledAhmed2004&theme=default" alt="GitHub Profile Summary Cards" />
 </p>
 
+<!-- GitHub Profile Details Card -->
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhaledAhmed2004&theme=default" alt="GitHub Profile Details Card" />
+</p>
 <h2 align="left">Last three projects:</h2>
 
 <h3 align="left">Parcel Management</h3>
