@@ -1,30 +1,53 @@
+<!-- Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Khaled+Ahmed+Nayeem" alt="Typing SVG"/>
 </p>
-<hr/>
-<h3 align="center">A Dedicated and Passionate MERN Stack Web Developer from Bangladesh</h3>
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- Header -->
+<h3 align="center">A Dedicated and Passionate MERN Stack Web Developer from Bangladesh</h3>
+<hr/>
+
+<!-- Current Overview -->
+<h2 align="center">🧐 Current Overview:</h2>
+
+- 🌱 I’m currently exploring **TypeScript and Next.js**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- ⚡ Fun fact: **Creating websites is not just a skill for me; it's my passion**
+- 📫 How to reach me: **khaledahmednayeem2004@gmail.com**
+
+<!-- Tools and Technologies -->
+<h3 align="left">💡 Tools And Technologies:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,express,mongodb,firebase" alt="Skills" />
   </a>
 </p>
 
-<p align="center">
-  🔭 Currently working on <strong>React.js</strong>
-</p>
+<!-- Current Github Status -->
+<h2 align="center">🚀 Current Github Status:</h2>
 
-<p align="center">
-  🌱 Currently learning <strong>Express, MongoDB</strong>
-</p>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KhaledAhmed2004&theme=default" alt="GitHub Profile Summary Cards" />
-
+<!-- GitHub Streak Stats -->
 <p align="center">
   <a href="https://github-readme-streak-stats.herokuapp.com?user=KhaledAhmed2004">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=KhaledAhmed2004&theme=dark&hide_border=true&background=0D1117&stroke=4A90E2&ring=4A90E2&fire=4A90E2&currStreakNum=4A90E2&sideNums=4A90E2&currStreakLabel=4A90E2&sideLabel=4A90E2&dates=4A90E2" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=KhaledAhmed2004&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KhaledAhmed2004&theme=default&exclude=html,css" alt="GitHub Profile Repos per Language Cards" />
+<!-- GitHub Top Languages -->
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KhaledAhmed2004&show_icons=true&locale=en&layout=compact" alt="KhaledAhmed2004" />
+</p>
+
+<!-- GitHub Profile Summary Cards -->
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KhaledAhmed2004&theme=default" alt="GitHub Profile Summary Cards" />
+</p>
+
+## 📱 **Reach Me**:
+
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/khaled-ahmed-nayeem-96596826a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "mailto:tanmoyparvez23@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
+
+</p>
