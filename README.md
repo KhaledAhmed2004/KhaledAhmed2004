@@ -52,7 +52,7 @@
  <h2 align="left">Last three project:</h2>
 
  <h3 align="left">Parcel Management</h3>
-This is my latest project—a full-stack parcel management website. I developed CRUD operations and integrated various functionalities for seamless user experience.
+This is one of my finest creations—a restaurant site boasting incredible functionality and UI/UX. Utilized CRUD, JWT, and various features for an exceptional user experience
  <h4 align="left">feature</h4>
 
 - In this site We have 3 types of dashboard
@@ -63,6 +63,19 @@ This is my latest project—a full-stack parcel management website. I developed 
 - user can update a parcel
 - admin can make delivery man and admin
 - [Live_Link](https://parcelmanagment.web.app/)
+- 
+ <h3 align="left">Khala-Pina-Restauran</h3>
+This is my latest project—a full-stack parcel management website. I developed CRUD operations and integrated various functionalities for seamless user experience.
+ <h4 align="left">feature</h4>
+
+- this site is fully responsive
+- this site have dark modo toggle
+- have awesome hove effect on card
+- have email and gmail auth system
+- have curd operation
+- and also have pagination
+- search option
+- [Live_Link](https://resturent-c129f.web.app)
 
 ## 📱 **Reach Me**:
 
