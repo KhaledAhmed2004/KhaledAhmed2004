@@ -64,34 +64,6 @@ This is my latest project—a full-stack parcel management website. I developed 
 - admin can make delivery man and admin
 - [Live_Link](https://parcelmanagment.web.app/)
 
- <h3 align="left">TravelNest</h3>
- Embark on a journey of seamless travel experiences with our comprehensive travel services website. From flight bookings to accommodation, we've got your travel needs covered. Discover new destinations, plan your adventures, and make lasting memories with the convenience of our user-friendly platform. Your gateway to a world of travel awaits!
- 
- <h4 align="left">feature</h4>
-
-- this website is a tour services related website
-- this website authentication website ,user login and register it
-- user can add a any services and delete any service
-- user also updated services
-- user book his own services
-- service provide see who is booking his service
-- [Live_Link](https://travelnest-c18b1.web.app/)
-
-
- <h3 align="left">TeachFassionHub</h3>
-Explore the latest in technology and elevate your digital lifestyle with our laptop and mobile sales website. Immerse yourself in cutting-edge devices, from sleek laptops to powerful smartphones. Discover a curated selection, competitive prices, and a user-friendly platform for a hassle-free shopping experience. Upgrade your tech game effortlessly with our one-stop destination for all your mobile and laptop needs
- 
- <h4 align="left">feature</h4>
-
-- This website is a Technology and Electronics type website
-- this website have 6 brand og category
-- when the catagory brand click then show the this category product
-- this website clients add a product
-- and clients update delete produtcs
-- this web site use authuntication
-- this web site have login from and register from
-- [Live-Link](https://techfusionhub-c1573.web.app/)
-
 ## 📱 **Reach Me**:
 
 <p align="left">
