@@ -63,7 +63,7 @@ This is one of my finest creations—a restaurant site boasting incredible funct
 - user can update a parcel
 - admin can make delivery man and admin
 - [Live_Link](https://parcelmanagment.web.app/)
-- 
+
  <h3 align="left">Khala-Pina-Restauran</h3>
 This is my latest project—a full-stack parcel management website. I developed CRUD operations and integrated various functionalities for seamless user experience.
  <h4 align="left">feature</h4>
@@ -76,6 +76,18 @@ This is my latest project—a full-stack parcel management website. I developed 
 - and also have pagination
 - search option
 - [Live_Link](https://resturent-c129f.web.app)
+
+ <h3 align="left">Khala-Pina-Restauran</h3>
+I've developed a tech brand website, implementing essential CRUD operations for a seamless user experience in this project.
+ <h4 align="left">feature</h4>
+
+
+- It's have a scrolling animation
+- It's have hover animation also
+- Email/Gmail 2 auth system are implement in this
+- Full web site data is from MongoDB
+- It show profile after login
+- [Live_Link](https://technology-and-electroni-ebb95.web.app)
 
 ## 📱 **Reach Me**:
 
