@@ -39,7 +39,7 @@
 </p>
 
 <!-- GitHub Top Languages -->
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KhaledAhmed2004&show_icons=true&locale=en&layout=compact" alt="KhaledAhmed2004" />
 </p>
 
