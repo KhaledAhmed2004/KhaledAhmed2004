@@ -52,43 +52,6 @@
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhaledAhmed2004&theme=default" alt="GitHub Profile Details Card" />
 </p>
-<h2 align="left">Last three projects:</h2>
-
-<h3 align="left">Parcel Management</h3>
-This is one of my finest creations—a restaurant site boasting incredible functionality and UI/UX. Utilized CRUD, JWT, and various features for an exceptional user experience.
-<h4 align="left">Features:</h4>
-
-- In this site, we have 3 types of dashboards
-- All dashboards have unique routes
-- Dynamically user, all delivery man, total book are all dynamic
-- Users can book a parcel
-- Users can delete a parcel
-- Users can update a parcel
-- Admin can make a delivery man and admin
-- [Live_Link](https://parcelmanagment.web.app/)
-
-<h3 align="left">Khala-Pina-Restaurant</h3>
-This is my latest project—a full-stack parcel management website. I developed CRUD operations and integrated various functionalities for a seamless user experience.
-<h4 align="left">Features:</h4>
-
-- This site is fully responsive
-- This site has dark mode toggle
-- Have an awesome hover effect on the card
-- Has email and Gmail auth system
-- Has CRUD operations
-- Also has pagination, search option
-- [Live_Link](https://resturent-c129f.web.app)
-
-<h3 align="left">Tech Brand Website</h3>
-I've developed a tech brand website, implementing essential CRUD operations for a seamless user experience in this project.
-<h4 align="left">Features:</h4>
-
-- It has scrolling animation
-- It has hover animation
-- Email/Gmail 2 auth systems are implemented in this
-- Full website data is from MongoDB
-- It shows a profile after login
-- [Live_Link](https://technology-and-electroni-ebb95.web.app)
 
 ## 📱 **Reach Me**:
 
