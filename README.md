@@ -24,7 +24,7 @@
 <h3 align="center">💡 Tools And Technologies:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,express,mongodb,firebase" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,express,mongodb,firebase,github,nextjs,nodejs,redux,ts" alt="Skills" />
   </a>
 </p>
 
